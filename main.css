@@ -1,0 +1,61 @@
+.cancha{
+
+	width: 600px;
+	height: 400px;
+	background-color: green;
+	position:absolute;
+}
+
+.cancha2{
+  	width: 500px;
+	height: 300px;
+	background-color: green;
+	border: 2px solid white;
+	position: relative;
+	top: 50px;
+	left: 50px;
+
+	
+}
+
+.arco1{
+	 width: 80px; 
+     height: 120px; 
+     background-color: green;
+     border: 2px solid white;
+     position: absolute;
+     top: 88px;
+     left:0px;
+
+
+     
+}
+
+.arco2{
+ 	width: 80px; 
+     height: 120px; 
+     background-color: green;
+     border: 2px solid white;
+     position: absolute;
+     bottom: 80px;
+     right: 0px
+
+}
+
+.circulo{
+	width: 100px;
+     height: 100px;
+     -moz-border-radius: 70%;
+     -webkit-border-radius: 70%;
+     border-radius: 70%;
+     background: green;
+     border:2px solid white;
+     position: absolute;
+     top: 90px;
+     left: 200px;
+
+
+}
+
+
+
